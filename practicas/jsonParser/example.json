@@ -1,0 +1,9 @@
+{
+  "nombres" : "Jesús Enrique",
+  "apellidos" : "Pacheco Franco",
+  "dinero" : null,
+  "becario" : true,
+  "instructor" : false,
+  "altura" : 1.80,
+  "peso" : 76
+}
