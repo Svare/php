@@ -1,0 +1,32 @@
+#####################################
+#  Arbol Generado		    #
+#	url: https://www.unam.mx/   #
+#	profundidad: 1              #
+#####################################
+
+https://www.unam.mx/
+------https://www.unam.mx/acerca-de-la-unam
+------https://www.unam.mx/comunidad/academicos/becas-y-estimulos
+------https://www.unam.mx/comunidad/academicos/estancias
+------https://www.unam.mx/comunidad/academicos/normatividad
+------https://www.unam.mx/comunidad/academicos/servicios-para-docencia-y-tutoria
+------------https://www.unam.mx/comunidad/academicos/servicios-para-docencia-y-tutoria/cursos-para-la-docencia
+------------https://www.unam.mx/comunidad/academicos/servicios-para-docencia-y-tutoria/tecnologia-para-la-docencia
+------https://www.unam.mx/comunidad/egresados/oferta-academica
+------https://www.unam.mx/comunidad/egresados/servicios
+------https://www.unam.mx/comunidad/estudiantes/becas-y-otros-apoyos
+------https://www.unam.mx/comunidad/estudiantes/estudiantes-extranjeros
+------https://www.unam.mx/comunidad/estudiantes/facultades-y-escuelas
+------https://www.unam.mx/comunidad/estudiantes/incorporacion-y-revalidacion-de-estudios
+------https://www.unam.mx/comunidad/estudiantes/servicios-bibliotecarios/bibliotecas
+------https://www.unam.mx/comunidad/estudiantes/titulacion-y-expedicion-de-cedula-profesional
+------https://www.unam.mx/creditos
+------https://www.unam.mx/cultura/publicaciones
+------https://www.unam.mx/dudas-y-comentarios
+------https://www.unam.mx/investigacion/institutos-centros-y-programas
+------https://www.unam.mx/oferta-educativa/movilidad
+------https://www.unam.mx/preguntas-frecuentes
+------https://www.unam.mx/rss.xml
+------https://www.unam.mx/sitemap
+------https://www.unam.mx/telefonos-y-medidas-de-emergencia
+------https://www.unam.mx/transporte
